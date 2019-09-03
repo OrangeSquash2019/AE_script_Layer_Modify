@@ -18,9 +18,9 @@ AE->Window->**Layer Modify.jsx**
 
 ## 兼容 Compatibility
 
-仅测试于Adobe After Effects 2019
+仅测试于Adobe After Effects 2019(Windows)
 
-Just test in Adobe After Effects 2019
+Just test in Adobe After Effects 2019(Windows)
 
 ## Tips
 
